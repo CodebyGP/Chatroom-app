@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="creative-home">
+  <h1>Welcome to Chatify!</h1>
+  <p>Connect and chat with people around the world.</p>
+
+  <form method="post" class="buttons">
+    <div class="input-group">
+      <label for="name">Your Name:</label>
+      <input type="text" placeholder="Enter your name" name="name" value="{{name}}" required />
+    </div>
+
+    <div class="input-group">
+      <label for="code">Room Code:</label>
+      <input type="text" placeholder="Enter a room code" name="code" value="{{code}}" />
+    </div>
+
+    <button type="submit" name="join" class="join-btn">Join a Room</button>
+    <button type="submit" name="create" class="create-btn">Create a Room</button>
+  </form>
+
+  {% if error %}
+  <div class="error-message">
+    <p>{{error}}</p>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}
