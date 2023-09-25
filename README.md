@@ -26,7 +26,7 @@ Install Dependencies
 2. python main.py
 
 
-en a web browser and go to http://localhost:5000 to access the app.
+Go to http://localhost:5000 to access the app.
 Using the App
 Home Page:
 
