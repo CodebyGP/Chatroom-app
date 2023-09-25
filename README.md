@@ -12,11 +12,11 @@ This is a simple web-based chatroom application built using Flask and Socket.IO.
 - **Dark Mode**: Includes an option to toggle between light and dark mode for better user experience.
 
 ## How to Use
+![Homescreen of the app](Chatify Homescreen.png)
+)
 
 ## Getting Started
 
-![Homescreen of the app](Chatify Homescreen.png)
-)
 
 
 
