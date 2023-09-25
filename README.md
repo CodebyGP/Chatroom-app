@@ -13,15 +13,17 @@ This is a simple web-based chatroom application built using Flask and Socket.IO.
 
 ## How to Use
 
-### Getting Started
+## Getting Started
 
-1. Clone the repository to your local machine:
+
+1. **Clone the Repository**:
 
 ```bash
 git clone https://github.com/CodebyGP/Chatroom-app.git
 cd Chatroom-app
 
-Install Dependencies
+
+## Install Dependencies
 1. pip install -r requirements.txt
 2. python main.py
 
