@@ -13,7 +13,6 @@ This is a simple web-based chatroom application built using Flask and Socket.IO.
 
 ## How to Use
 
-![Screenshot](Chatify Homescreen.PNG)
 
 ## Getting Started
 
