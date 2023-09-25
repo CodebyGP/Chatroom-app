@@ -15,6 +15,11 @@ This is a simple web-based chatroom application built using Flask and Socket.IO.
 
 ## Getting Started
 
+![Homescreen](![Chatify Homescreen](https://github.com/CodebyGP/Chatroom-app/assets/143684745/08aed951-24b6-4e85-9d34-122c0a9aeaac)
+)
+
+
+
 
 1. **Clone the Repository**:
 
